@@ -1,0 +1,16 @@
+{
+    "a": "a",
+    "b": "b",
+    "c": "c",
+    "services": [
+        {
+            "item": "{{{package.a}}}"
+        },
+        {
+            "item": "{{{package.b}}}"
+        },
+        {
+            "item": "{{{package.c}}}"
+        }
+    ]
+}
